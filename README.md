@@ -19,7 +19,17 @@
     - Supervised algorithm 
     - Maximizing the component axes for Class Separation
     
-    - Linear Discriminant Analysis done and got an Accuracy of 100%
-    
+    - Linear Discriminant Analysis done 
+    - Apply Logistic Regression model on the reduced dataset 
+    - and got an Accuracy of 100%
+
+***Kernel PCA***
+
+    - Dataset - Same as above
+        
+    - Kernel PCA used for dimensionality reduction
+    - Apply Logistic Regression Model on the reduced dataset
+    - Accuracy of 100%
+
 
     
